@@ -6,7 +6,7 @@
 
 # [About me](https://www.notion.so/Jerome-Placido-8739c0fecda24af3a7685838ff6bbc2e) 📖
 
-![My wife, Annalynn, and our son, Joseph Pio](<img src="https://media.licdn.com/dms/image/D5603AQHSin2En4NTGA/profile-displayphoto-shrink_800_800/0/1673510739212?e=2147483647&v=beta&t=rDTYxSuSglxtHA1PNIKUm0qONQA_Hr7o7lZ3xuvxiLI"  width=50% height=50%> )
+![My wife, Annalynn, and our son, Joseph Pio]<img src="https://media.licdn.com/dms/image/D5603AQHSin2En4NTGA/profile-displayphoto-shrink_800_800/0/1673510739212?e=2147483647&v=beta&t=rDTYxSuSglxtHA1PNIKUm0qONQA_Hr7o7lZ3xuvxiLI"  width=30% height=30%> 
 
 My wife, Annalynn, and our son, Joseph Pio
 
