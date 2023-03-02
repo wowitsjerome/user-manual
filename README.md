@@ -51,8 +51,6 @@ Person-centric Transformational Servant Leadership *(yes i made this up)
 
 I prefer to receive the feedback in real-time and as soon as possible.  If you'd like to give me feedback [let's set some time aside to chat!](https://calendly.com/jplacido/one-on-one)
 
-While I prefer feedback directly, for those seeking to provide feedback anonymously.  You can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfLLp4JIWDELbxHUVfQ6HCl8bzvzBj2oHx2xt5iIXWmEwSGnQ/viewform?usp=sf_link).
-
 ## What Motivates Me 😆
 
 - Inspiring vision/purpose
@@ -88,7 +86,5 @@ While I prefer feedback directly, for those seeking to provide feedback anonymou
 - Inability to receive feedback
 
 <aside>
-⚠️ Just a reminder that this is not meant to be comprehensive, nor a binding agreement of how I work.  Simply a jumping-off point so you know how I operate, and so we can learn how to be effective together as a team.
-
-If you see any discrepencies, please submit an issue for consideration of a revision.
+⚠️ Just a reminder that this is not meant to be comprehensive, nor a binding agreement of how I work.  Simply a jumping-off point so you know how I operate, and so we can learn how to be effective together as a team.  If you see any discrepencies, please submit an issue for consideration of a revision.
 </aside>
