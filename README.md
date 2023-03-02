@@ -38,12 +38,12 @@ Person-centric Transformational Servant Leadership *(yes i made this up)
 
 ## Communication Preferences ⌨️
 
-1. Slack 
-2. Slack Huddle
-3. Notion
-4. Zoom
-5. Email
-6. Carrier Pigeon or Message in a Bottle
+1. Slack (Slack Huddle if possible)
+3. Discord
+4. Notion
+5. Zoom
+6. Email
+7. Carrier Pigeon or Message in a Bottle
 
 ## How to give me feedback 🎙️
 
@@ -90,4 +90,5 @@ While I prefer feedback directly, for those seeking to provide feedback anonymou
 <aside>
 ⚠️ Just a reminder that this is not meant to be comprehensive, nor a binding agreement of how I work.  Simply a jumping-off point so you know how I operate, and so we can learn how to be effective together as a team.
 
+If you see any discrepencies, please submit an issue for consideration of a revision.
 </aside>
